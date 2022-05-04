@@ -1,0 +1,7 @@
+
+Os arquivos bvr_ZZZZ_TTTTMyr.dat do trabalho 2 contém as seguintes colunas
+m*(Mo),  B , V, R,  (B-V) ,(B-R), (V-R) 
+
+Sua nomenclatura é: 
+ZZZZ a metalicidade absoluta e TTTT a idade. 
+
